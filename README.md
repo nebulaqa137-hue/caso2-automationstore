@@ -3,7 +3,7 @@
 
 ## Descripción
 
-Proyecto de automatización de pruebas UI para [Automation Test Store](http://www.automationteststore.com), desarrollado como parte del caso práctico de QA para Envíoclick.
+Proyecto de automatización de pruebas UI para [Automation Test Store](http://www.automationteststore.com),
 
 Cubre los flujos de una tienda e-commerce real: registro de cuentas con validación completa de formulario, autenticación, gestión del carrito de compras, cambio de divisas y validación de productos en oferta. La arquitectura sigue el patrón Page Object Model con Page Factory y BDD con Cucumber y Gherkin.
 
